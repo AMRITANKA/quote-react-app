@@ -52,7 +52,7 @@ npm run dev
 ## 🔗 API Reference
 
 API used:  
-`https://freeapi.hashnode.space/api-guide/apireference/getARandomQuote`
+`https://api.freeapi.app/api/v1/public/quotes/quote/random`
 
 Example Response:
 ```json
