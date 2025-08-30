@@ -45,7 +45,8 @@ npm run dev
 
 ## 🖼️ Screenshot
 
-![App Screenshot](./screenshot.png)
+<img width="1085" height="444" alt="image" src="https://github.com/user-attachments/assets/c75de6a5-1607-4ae5-8213-7e2ac2a0c01c" />
+
 
 ---
 
